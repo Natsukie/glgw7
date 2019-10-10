@@ -1,6 +1,6 @@
 
 def fileSize(size):
 	if size > 200000 :
-		return Fail
+		return False
 	else:
 	 	return True
