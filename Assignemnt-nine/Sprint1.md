@@ -19,8 +19,7 @@ Fail: No result if there no response from Augur end point.
 
 Steps for execution:
 
- First case:
- 
+First case:
 	- 1. go to repo pages
 	- 2. loading repo data from Augur
 	- 3. display repo data
@@ -48,6 +47,7 @@ Goals: Main goal is the user can get the specific detail from augur end point
 Fail: No result if there no response from Augur end point.
 
 Steps for execution:
+
 	- 1. go to repo pages
 	- 2. loading repo data from Augur end point
 	- 3. Search data top commit pull request, or contributor by repo info
