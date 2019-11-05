@@ -88,6 +88,12 @@ Steps for execution:
 	- augur_data.pull_request_repo 
  	- augur_data.commits
   	- augur_data.contributor
+## Wireframes
+
+repo link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/Wireframes/Repo-page.jpg
+repo group link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/Wireframes/Repo-group-page.jpg
+info word version link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/Wireframes/Info-page.jpg
+graph version link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/Wireframes/Graph-version-page.jpg
 
 ## Define Endpoints or  End points you think you will need to develop or a combnination of the two
 
