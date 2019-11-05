@@ -74,9 +74,20 @@ Steps for execution:
 	- 3. Search data top commit pull request, or contributor by repo info
 	- 4. loading specific info from Augur data
 	- 5. display the specific info in pages
-  - 6. change to graph info version pages
+        - 6. change to graph info version pages
 
 
 ## Identify which parts of the Augur ERD are going to be relevant for your semester project
-  -
- 
+  List of the parts of the augur ERD will be used
+	- augur_data.repo_info
+  	- augur_data.repo_groups
+	- augur_data.pull_request_repo 
+ 	- augur_data.commits
+  	- augur_data.contributor
+
+## Define Endpoints or  End points you think you will need to develop or a combnination of the two
+	- repo
+	- repo group
+	- pull requiest 
+	- commits
+	- contributors
