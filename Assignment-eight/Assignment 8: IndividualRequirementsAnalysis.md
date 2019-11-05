@@ -46,16 +46,21 @@ Second case:
 link:https://github.com/Natsukie/glgw7/blob/master/Assignment-eight/UseCaseImage/use%20case%202.jpg
 
 Title: Top commit, pull request, and contributor detail display pages
+
 Description: We can get the detail from Augur end point such as top commit, pull request, and contributor.
+
 Actor: User and the administrators from augur data system
+
 Goals: Main goal is the user can get the specific detail from augur end point
+
 Fail: No result if there no response from Augur end point.
+
 Steps for execution:
-	1. go to repo pages
-	2. loading repo data from Augur end point
-	3. Search data top commit pull request, or contributor by repo info
-	4. loading specific info from Augur data
-	5. display the specific info in pages
+	- 1. go to repo pages
+	- 2. loading repo data from Augur end point
+	- 3. Search data top commit pull request, or contributor by repo info
+	- 4. loading specific info from Augur data
+	- 5. display the specific info in pages
 
 ### Functional specification
   - System can check data from augur endpoint
