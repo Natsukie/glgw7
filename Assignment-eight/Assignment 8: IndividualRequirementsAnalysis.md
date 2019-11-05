@@ -13,7 +13,7 @@ We should build a project which can get and display the data from augur endpoint
 ### use cases
 ####  Use case 1:
 
-link:https://github.com/Natsukie/glgw7/blob/master/Assignment-eight/UseCaseImage/use%20case%201.jpg
+diagram link:https://github.com/Natsukie/glgw7/blob/master/Assignment-eight/UseCaseImage/use%20case%201.jpg
 
 Title: Repo and Repo Group display pages
 
@@ -43,7 +43,7 @@ Second case:
 
 ####  Use case 2:
 
-link:https://github.com/Natsukie/glgw7/blob/master/Assignment-eight/UseCaseImage/use%20case%202.jpg
+diagram link:https://github.com/Natsukie/glgw7/blob/master/Assignment-eight/UseCaseImage/use%20case%202.jpg
 
 Title: Top commit, pull request, and contributor detail display pages
 
