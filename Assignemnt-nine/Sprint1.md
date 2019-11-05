@@ -5,7 +5,7 @@
 
 ###  Use case 1:
 
-link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/UseCase/use%20case%201.jpg
+diagram link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/UseCase/use%20case%201.jpg
 
 Title: Repo and Repo Group display pages
 
@@ -36,7 +36,7 @@ Second case:
 
 ###  Use case 2:
 
-link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/UseCase/use%20case%202.jpg
+diagram link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/UseCase/use%20case%202.jpg
 
 Title: Top commit, pull request, and contributor detail display pages
 
@@ -58,7 +58,7 @@ Steps for execution:
 
 ### use case 3:
 
-link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/UseCase/use%20case%203.jpg
+diagram link:https://github.com/Natsukie/glgw7/blob/master/Assignemnt-nine/UseCase/use%20case%203.jpg
 
 Title: Top commit, pull request, and contributor detail display pages
 
