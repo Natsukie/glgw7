@@ -20,10 +20,12 @@ Fail: No result if there no response from Augur end point.
 Steps for execution:
 
 First case:
+
 	- 1. go to repo pages
 	- 2. loading repo data from Augur
 	- 3. display repo data
 Second case:
+
 	- 1. go to repo group pages
 	- 2. loading repo group pages from Augur
 	- 3. display repo group data
@@ -69,6 +71,7 @@ Goals: Main goal is the user can get the specific detail from augur end point. A
 Fail: No result if there no response from Augur end point.
 
 Steps for execution:
+
 	- 1. go to repo pages
 	- 2. loading repo data from Augur end point
 	- 3. Search data top commit pull request, or contributor by repo info
@@ -79,6 +82,7 @@ Steps for execution:
 
 ## Identify which parts of the Augur ERD are going to be relevant for your semester project
   List of the parts of the augur ERD will be used
+  
 	- augur_data.repo_info
   	- augur_data.repo_groups
 	- augur_data.pull_request_repo 
@@ -86,6 +90,7 @@ Steps for execution:
   	- augur_data.contributor
 
 ## Define Endpoints or  End points you think you will need to develop or a combnination of the two
+
 	- repo
 	- repo group
 	- pull requiest 
